@@ -1,2 +1,5 @@
-# instagram-profile
-Instagram Profile Page Responsive Design with Tailwind CSS
+# Instagram Profile
+Instagram profile page responsive design with Tailwind CSS.
+
+**NOTE**: just for learning :)
+
