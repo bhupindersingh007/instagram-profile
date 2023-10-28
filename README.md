@@ -5,7 +5,7 @@ Instagram profile page responsive design with Tailwind CSS.
 
 <br>
 
-![Instagram Profile Page](https://github.com/bhupindersingh007/instagram-profile/assets/63149405/9daad4ae-ccff-4bea-93c9-24f17104aea7)
+![Instagram Profile Page](https://github.com/bhupindersingh007/instagram-profile/assets/63149405/6e6884aa-f952-4b42-8027-dcc6f9af92b7)
 
 **NOTE** : just for learning :)
 
